@@ -28,7 +28,7 @@
         "url": "https://github.com/zone117x/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/clintar/node-multi-hashing.git#Nan-2.0",
+        "multi-hashing": "git://github.com/DeffM/node-multi-hashing",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
